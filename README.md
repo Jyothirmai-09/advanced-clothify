@@ -65,4 +65,4 @@ It features a dynamic product listing, interactive shopping cart, order placemen
 ---
 
 ## 🚀 Getting Started
-##enjoy my clothify
+##Enjoy my clothify
